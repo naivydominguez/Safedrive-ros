@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# macOS generated files
+.DS_Store
+
+# C++ generated files
+*.o
+*.so
